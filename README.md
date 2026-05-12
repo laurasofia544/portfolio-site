@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio Site
 
-## Getting Started
+## Overview
 
-First, run the development server:
+This is my professional portfolio website presenting my direction as a frontend developer focused on interactive and data-driven web experiences.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The site includes my professional identity, featured projects, technical skills, AI workflow, GitHub link, LinkedIn link, and live project links.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Professional Direction
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Frontend Developer focused on interactive and data-driven web experiences.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Featured Projects
 
-## Learn More
+- Makeup Product Database Application
+- Frontend Resume Skill Match Dashboard
+- Wages vs. Inflation Scrollytelling Project
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Vercel
+- GitHub
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Live Site
 
-## Deploy on Vercel
+https://portfolio-site-snowy-pi.vercel.app/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## GitHub
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+https://github.com/laurasofia544/portfolio-site
+
+## AI Workflow
+
+AI tools were used to help plan the portfolio structure, refine writing, organize project descriptions, debug code, and improve the overall presentation. Final decisions were revised and managed by me.
