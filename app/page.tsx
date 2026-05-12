@@ -40,7 +40,7 @@ export default function Home() {
           </a>
 
           <a
-            href="YOUR_LINKEDIN_URL"
+            href="https://www.linkedin.com/in/laura-loaiza-b01023349/"
             target="_blank"
             className="rounded-full border border-gray-300 bg-white px-6 py-3 font-medium"
           >
@@ -111,7 +111,7 @@ export default function Home() {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="YOUR_MAKEUP_PROJECT_GITHUB_LINK"
+                href="https://github.com/laurasofia544/IT302-lsl8-Project"
                 target="_blank"
                 className="rounded-full bg-black px-5 py-3 text-white"
               >
@@ -273,7 +273,7 @@ export default function Home() {
             GitHub
           </a>
 
-          <a href="YOUR_LINKEDIN_URL" target="_blank" className="underline">
+          <a href="https://www.linkedin.com/in/laura-loaiza-b01023349/" target="_blank" className="underline">
             LinkedIn
           </a>
         </div>
