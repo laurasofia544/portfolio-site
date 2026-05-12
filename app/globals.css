@@ -5,8 +5,8 @@ html {
 }
 
 body {
-  background: #f7f4ef;
-  color: #111111;
+  background: #0f0f0f;
+  color: #f7f4ef;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -17,7 +17,17 @@ body {
 a {
   transition: all 0.2s ease;
 }
+button,
 
-a:hover {
-  opacity: 0.85;
+a {
+  transition:
+    transform 0.25s ease,
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease,
+    opacity 0.25s ease;
+}
+button,
+a {
+  cursor: pointer;
 }
