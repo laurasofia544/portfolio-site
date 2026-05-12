@@ -1,20 +1,77 @@
-# Portfolio Site
+# Laura Loaiza — Frontend Developer Portfolio
 
-## Overview
+A professional frontend development portfolio featuring interactive projects focused on frontend design, data visualization, dashboard development, and narrative web experiences.
 
-This is my professional portfolio website presenting my direction as a frontend developer focused on interactive and data-driven web experiences.
+This portfolio was designed to present both technical projects and the reasoning behind them in a structured, portfolio-ready format.
 
-The site includes my professional identity, featured projects, technical skills, AI workflow, GitHub link, LinkedIn link, and live project links.
+---
 
-## Professional Direction
+## Live Portfolio
 
-Frontend Developer focused on interactive and data-driven web experiences.
+https://portfolio-site-snowy-pi.vercel.app/
+
+---
+
+## GitHub Repository
+
+https://github.com/laurasofia544/portfolio-site
+
+---
+
+## Portfolio Goal
+
+The goal of this portfolio was to create a professional frontend presentation space that connects technical projects with clear problem-solving decisions, project goals, and frontend design thinking.
+
+The site focuses on:
+- frontend development
+- interaction design
+- dashboard interfaces
+- scrollytelling experiences
+- portfolio presentation
+- visual communication
+
+---
 
 ## Featured Projects
 
-- Makeup Product Database Application
-- Frontend Resume Skill Match Dashboard
-- Wages vs. Inflation Scrollytelling Project
+### Frontend Resume Skill Match Dashboard
+
+A frontend dashboard that compares resumes against job descriptions to identify matched skills, missing skills, and realistic learning priorities.
+
+Skills demonstrated:
+- React
+- TypeScript
+- automated testing
+- frontend architecture
+- dashboard UI design
+
+---
+
+### Wages vs. Inflation — Student Reality Lab
+
+An interactive scrollytelling data visualization project exploring how inflation changes the meaning of wage growth over time.
+
+Skills demonstrated:
+- data visualization
+- frontend storytelling
+- React chart integration
+- interaction design
+- narrative UI structure
+
+---
+
+### Makeup Product Database
+
+A frontend product exploration interface focused on organizing and displaying structured cosmetic product information.
+
+Skills demonstrated:
+- frontend filtering
+- responsive layout design
+- UI organization
+- component structure
+- product-focused interface design
+
+---
 
 ## Technologies Used
 
@@ -22,17 +79,70 @@ Frontend Developer focused on interactive and data-driven web experiences.
 - React
 - TypeScript
 - Tailwind CSS
+- Recharts
 - Vercel
-- GitHub
 
-## Live Site
+---
 
-https://portfolio-site-snowy-pi.vercel.app/
+## Design Direction
 
-## GitHub
+The portfolio design was inspired by modern editorial and frontend case-study layouts that combine:
+- visual hierarchy
+- storytelling
+- interaction
+- structured project presentation
+- portfolio proof sections
 
-https://github.com/laurasofia544/portfolio-site
+The goal was to create a portfolio that feels intentional, clean, and professionally organized rather than template-based.
 
-## AI Workflow
+---
 
-AI tools were used to help plan the portfolio structure, refine writing, organize project descriptions, debug code, and improve the overall presentation. Final decisions were revised and managed by me.
+## Portfolio Structure
+
+The portfolio includes:
+- project showcases
+- proof sections
+- interaction-focused layouts
+- frontend case-study presentation
+- responsive design
+- hover interactions
+- narrative project descriptions
+
+---
+
+## Run Locally
+
+Install dependencies:
+
+```bash
+npm install
+```
+Run locally
+Install dependencies:
+```bash
+npm install
+```
+Start development server:
+```bash
+npm run dev
+```
+Open:
+```bash
+http://localhost:3000
+```
+
+## Why This Portfolio Matters
+This portfolio was designed to present projects in a way that reflects:
+
+- technical growth
+- frontend development skills
+- professional presentation
+- project reasoning
+- visual communication
+
+The focus was not only on showing finished projects, but also on explaining:
+
+- why the projects were chosen
+- what problems they solve
+- what skills they demonstrate
+- how they connect to a frontend development career path
